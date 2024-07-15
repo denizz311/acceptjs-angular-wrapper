@@ -7,7 +7,7 @@
     "url": "https://github.com/openUtility/acceptjs-angular-wrapper.git"
   },
   "peerDependencies": {
-    "@angular/common": "15.X - 17.X",
-    "@angular/core": "15.X - 17.X"
+    "@angular/common": "15.X - 18.X",
+    "@angular/core": "15.X - 18.X"
   }
 }
